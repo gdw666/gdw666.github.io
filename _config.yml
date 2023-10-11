@@ -104,3 +104,4 @@ theme: landscape
 deploy:
   type: 'git'
   repo: https://github.com/gdw666/gdw666.github.io
+  branch: master
